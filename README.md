@@ -39,9 +39,11 @@ How quickly can a new feature or capability be delivered
 Include security at the beginning of your process
 - Loosely coupled architecture
 - Pro-active notification
+
+## Leveraging Infrastructure as Code (IAC)  
+
 ## Use Cases
 Read [here](USECASES.md)
-
 
 ## Implementation Concerns
 - Brownfield  
